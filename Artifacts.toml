@@ -1,0 +1,34 @@
+[[mdoodz]]
+arch = "aarch64"
+git-tree-sha1 = "877ee5cd375ade05e75e14db0635c09faf772024"
+os = "macos"
+
+    [[mdoodz.download]]
+    sha256 = "1c27a791630f4add1594731da85bf657a134c328c43d904a209caa88feedbb87"
+    url = "https://github.com/JuliaBinaryWrappers/mdoodz_jll.jl/releases/download/mdoodz-v0.1.0+0/mdoodz.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[mdoodz]]
+arch = "aarch64"
+git-tree-sha1 = "7be0c2ebccb06bc49b82907b4e614c9ada70207d"
+libc = "glibc"
+os = "linux"
+
+    [[mdoodz.download]]
+    sha256 = "bd996ee7c60b702c1e16d6899902e613677a840c56a6aadf3a7e4c69f6b3fb0a"
+    url = "https://github.com/JuliaBinaryWrappers/mdoodz_jll.jl/releases/download/mdoodz-v0.1.0+0/mdoodz.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[mdoodz]]
+arch = "x86_64"
+git-tree-sha1 = "d5240b3bbe253d837f66f0beadedb5e21f0546bb"
+os = "macos"
+
+    [[mdoodz.download]]
+    sha256 = "65cc989a970f80dec4cb093bf11b80bd43b010d55eeac92bc366fa1b94254e35"
+    url = "https://github.com/JuliaBinaryWrappers/mdoodz_jll.jl/releases/download/mdoodz-v0.1.0+0/mdoodz.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[mdoodz]]
+arch = "x86_64"
+git-tree-sha1 = "6e722531915719b77087c1d73314a56d045fd2a7"
+libc = "glibc"
+os = "linux"
+
+    [[mdoodz.download]]
+    sha256 = "a1e456e335b504dcee2406674b985e4810c5a55b2b829de82133875d8c929791"
+    url = "https://github.com/JuliaBinaryWrappers/mdoodz_jll.jl/releases/download/mdoodz-v0.1.0+0/mdoodz.v0.1.0.x86_64-linux-gnu.tar.gz"
